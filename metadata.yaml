@@ -1,0 +1,26 @@
+_repo: Travels-in-Eastern-Africa-volume-2-of-2-b-with-the-narrative-of-a-residence-in-Mozambique_74676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McLeod, Lyons
+    gutenberg_agent_id: '57597'
+    url: http://www.gutenberg.org/2009/agents/57597
+description: ''
+gutenberg_issued: '2024-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74676'
+language: en
+pgterms:marc904: https://archive.org/details/travelsineastern01mcle
+pgterms:marc905: 20211113072847mcleod
+pgterms:marc906: '1860'
+pgterms:marc907: gb
+publication_note: '  $aLondon :$bHurst and Blackett, $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Travels in Eastern Africa, volume 2 (of 2) : $b with the narrative of a residence
+  in Mozambique'
+url: http://www.gutenberg.org/ebooks/74676
